@@ -13,4 +13,4 @@
 3. Запустить основную программу обрабоки потока `/src/main_15.py`
 
 ### Инструменты
-Kakfa, PostgreSQL, Pyspark, SparkStreaming
+Kafka, PostgreSQL, Pyspark, SparkStreaming
